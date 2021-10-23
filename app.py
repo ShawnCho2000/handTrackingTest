@@ -12,7 +12,7 @@
 
 # if __name__ == '__main__':
 #   app.run()
-
+#FLASK_APP=app.py flask run
 from flask import Flask,render_template,Response
 import cv2
 import mediapipe as mp
