@@ -1,2 +1,4 @@
 flask
 virtualenv
+opencv-python
+mediapipe
